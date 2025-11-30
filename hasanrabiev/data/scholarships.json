@@ -1,0 +1,35 @@
+[
+  {
+    "id": "s1",
+    "title": "Beasiswa Unggulan Nasional",
+    "category": "S1",
+    "location": "Indonesia",
+    "type": "Penuh",
+    "deadline": "2026-01-15",
+    "short": "Beasiswa untuk mahasiswa berprestasi tingkat nasional.",
+    "description": "Cakupan biaya kuliah penuh, tunjangan hidup, dan pendampingan studi.",
+    "eligibility": ["IPK min 3.0", "Warga negara Indonesia", "Surat rekomendasi"]
+  },
+  {
+    "id": "s2",
+    "title": "Beasiswa Magister Internasional",
+    "category": "S2",
+    "location": "Luar Negeri",
+    "type": "Partial",
+    "deadline": "2026-03-01",
+    "short": "Beasiswa untuk program Master di luar negeri.",
+    "description": "Tunjangan studi dan bantuan awal keberangkatan.",
+    "eligibility": ["S1 sejenis", "TOEFL/IELTS", "CV dan proposal riset"]
+  },
+  {
+    "id": "s3",
+    "title": "Beasiswa Penelitian Doktor",
+    "category": "S3",
+    "location": "Indonesia",
+    "type": "Penuh",
+    "deadline": "2026-05-30",
+    "short": "Beasiswa bagi peneliti muda untuk program doktoral.",
+    "description": "Pembiayaan penelitian, biaya hidup, dan konferensi.",
+    "eligibility": ["S2 sejenis", "Proposal riset", "Publikasi (opsional)"]
+  }
+]
